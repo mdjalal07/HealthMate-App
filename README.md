@@ -27,7 +27,6 @@ Admin can manage doctors, patients, and appointments using a dedicated dashboard
 
 **User Interface (UI)** 👉 [LINK](https://healthmate-app-frontend.onrender.com/)
 
-
 </div>
 
 <br/><hr/><br/>
@@ -56,11 +55,8 @@ Admin can manage doctors, patients, and appointments using a dedicated dashboard
 ### **Md Jalal**
 Full-Stack Developer | MERN Enthusiast | IT Student  
 
-- **GitHub:** _your-github-link_
-- **LinkedIn:** _your-linkedin-link_
-- **Twitter/X:** _your-twitter-link_
-
-> (Replace with your actual links)
+- **GitHub:** (https://github.com/mdjalal07)
+- **LinkedIn:** (www.linkedin.com/in/mdjalal00)
 
 <br/><hr/><br/>
 
