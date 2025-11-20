@@ -15,10 +15,7 @@ connectCloudinary();
 
 // middlewares
 app.use(express.json());
-app.use(cors({
-  origin: "https://healthmate-app-frontend.onrender.com",
-  credentials: true,
-}));
+app.use(cors());
 
 // api endpoints
 app.use("/api/admin", adminRouter);
